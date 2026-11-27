@@ -1,0 +1,17 @@
+.rotulo {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+
+.trilho {
+  height: 12px;
+  background-color: #304154;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.preenchimento {
+  height: 100%;
+  background-color: #42bfe9;
+}
