@@ -1,0 +1,66 @@
+.pagina {
+  max-width: 740px;
+  margin: 0 auto;
+}
+
+.pagina h1 {
+  margin: 12px 0;
+  font-size: 28px;
+}
+
+.atualizar {
+  margin: 8px 0 16px 0;
+  padding: 8px 14px;
+  border: 1px solid #8cd8f6;
+  border-radius: 4px;
+  background-color: transparent;
+  color: #8cd8f6;
+  cursor: pointer;
+}
+
+.total {
+  font-weight: bold;
+}
+
+.bloco {
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid #304154;
+}
+
+.bloco h2 {
+  font-size: 19px;
+  margin: 0 0 12px 0;
+}
+
+.barras {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.media strong {
+  color: #8cd8f6;
+  font-size: 36px;
+}
+
+.comentarios {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.comentario {
+  margin: 0;
+  padding: 12px;
+  background-color: #162435;
+  border-left: 3px solid #42bfe9;
+  border-radius: 4px;
+}
+
+.erro {
+  padding: 10px;
+  border: 1px solid #ad5e65;
+  border-radius: 4px;
+  color: #ffd1d5;
+}
