@@ -1,0 +1,23 @@
+.sobre {
+  padding-top: 16px;
+ 
+}
+
+.sobre h2 {
+  margin: 24px 0 8px 0;
+  font-size: 22px;
+}
+
+.sobre p {
+  color: #d2deea;
+  margin: 0 0 16px 0;
+}
+
+.imagem {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: 16px 0;
+  border-radius: 5px;
+}
